@@ -1,0 +1,7 @@
+{
+  "tool_name": "mcp__claude_ai_Notion__notion-update-page",
+  "tool_input_preview": "{\"page_id\":\"39c625e3-d291-80f4-9b7e-dc9baf0f36d8\",\"command\":\"update_properties\",\"properties\":{\"사이트 URL\":\"https://rablecare.com/\",\"기능\":[\"반응형\",\"시공사례 자동화\",\"상담폼\",\"SEO 최적화\",\"카카오톡\"],\"date:공개일:start\":\"2026-0...",
+  "error": "{\"name\":\"APIResponseError\",\"code\":\"validation_error\",\"status\":400,\"headers\":{},\"body\":\"{\\\"object\\\":\\\"error\\\",\\\"status\\\":400,\\\"code\\\":\\\"validation_error\\\",\\\"message\\\":\\\"Invalid multi_select value for property \\\\\\\"기능\\\\\\\": \\\\\\\"시공사례 자동화\\\\\\\". Value must be one of the following: \\\\\\\"반응형\\\\\\\", \\\\\\\"CRM 연동\\\\\\\", \\\\\\\"예약 시스템\\\\\\\", \\\\\\\"상담폼\\\\\\\", \\\\\\\"블로그 자동화\\\\\\\", \\\\\\\"SEO 최적화\\\\\\\", \\\\\\\"카카오톡\\\\\\\", \\\\\\\"결제\\\\\\\". If a new multi_select option is needed, the data source must be updated to add it.\\\",\\\"request_id\\\":\\\"202440...",
+  "timestamp": "2026-09-21T06:50:16.191Z",
+  "retry_count": 1
+}
